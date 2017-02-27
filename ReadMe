@@ -1,0 +1,2 @@
+This contains assembly code and hex file for ATmega8A. It generates a PWM signal whose duty cycle depends on ad0 pin of the 
+Atmega8a. The PWM is generated on OC1B(or OC1A. Check Both)
