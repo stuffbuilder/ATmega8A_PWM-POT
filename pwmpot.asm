@@ -2,7 +2,7 @@
  * pwmpot.asm
  *
  *  Created: 3/25/2016 1:32:01 PM
- *   Author: Oren Collaco
+ *   Author: Oren
  */ 
 
  ser r18
